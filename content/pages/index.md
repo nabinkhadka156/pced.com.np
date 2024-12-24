@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: Geophysical Investigations
+    subtitle: ssssssssssssssss
     items:
       - type: FeaturedItem
         title: >-
